@@ -29,3 +29,14 @@ body {
   margin: 0 20px;
   display: inline-block;
 }
+.Box {
+  background: rgba(81, 153, 248, 0.87);
+  border: 5px deepskyblue outset;
+  margin-top: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-inside: 200px;
+  padding: 30px 30px 30px 30px;
+  text-align: center;
+  text-transform: full-width;
+}
