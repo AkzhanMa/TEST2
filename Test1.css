@@ -1,0 +1,31 @@
+html {
+  font-size: 65.5%;
+}
+body {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding: 0;
+  background: rgb(55, 99, 105) url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614588558_27-p-minimalizm-na-belom-fone-47.jpg) no-repeat center fixed;
+  background-size: 150%;
+}
+.navbar{
+  background-color: #376369;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  position: fixed;
+  z-index: 4;
+  top: 15px;
+  left: 0;
+  border: 8px darkgray;
+}
+.navbar .item {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  padding: 8px 9px;
+  align-items: normal;
+  text-transform: full-width;
+  margin: 0 20px;
+  display: inline-block;
+}
